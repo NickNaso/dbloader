@@ -27,7 +27,7 @@ Per maggiori informazioni consultare il seguente link: http://www.nacios.it/phon
 `<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>`
  
 
- ## Uso del plugin ##
+## Uso del plugin ##
  
 1) Creare il riferimento al plugin richiamando il comando cordova.exec():
  
