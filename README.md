@@ -37,9 +37,9 @@ Per maggiori informazioni consultare il seguente link: http://www.nacios.it/phon
 
 Attenzione prima di caricare il database bisogna crearne uno con lo stesso nome impiegando le API messe a disposizione da PhoneGap di cui riporto il link:
 
-<a href="http://docs.phonegap.com/en/2.7.0/cordova_storage_storage.md.html#Storage" target="_blank">http://docs.phonegap.com/en/2.7.0/cordova_storage_storage.md.html#Storage</a>
+<a href="http://docs.phonegap.com/en/2.7.0/cordova_storage_storage.md.html#Storage" target="_blank">PhoneGap Storage 2.7.0</a>
 
-<a href="http://docs.phonegap.com/en/2.3.0/cordova_storage_storage.md.html#Storage" target="_blank">http://docs.phonegap.com/en/2.3.0/cordova_storage_storage.md.html#Storage</a>
+<a href="http://docs.phonegap.com/en/2.3.0/cordova_storage_storage.md.html#Storage" target="_blank">PhoneGap Storage 2.3.0</a>
  
 1) Creare il riferimento al plugin richiamando il comando cordova.exec():
  
