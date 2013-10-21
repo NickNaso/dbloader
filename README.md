@@ -8,4 +8,6 @@ Per maggiori informazioni consultare il seguente link: http://www.nacios.it/phon
 
 ## Installare il plugin nel proprio proprio progetto ##
 
-1) 
+1) Per installare il plugin, copiare il file dbLoader.js all'interno della cartella /assets/www/ e includere il riferimento all'interno dei files html.
+
+`<script type="text/javascript" charset="utf-8" src="dbLoader.js"></script>`
