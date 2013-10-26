@@ -1,4 +1,4 @@
-*******************************************************************************
+/*******************************************************************************
 * Copyright (c) 2012, 2013 Nacios Technologies.
 * All rights reserved. This program and the accompanying materials
 * are made available under the terms of the Apache License Version 2.0
